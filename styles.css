@@ -1,0 +1,32 @@
+.main{
+    margin-top: 100px;
+}
+
+.logo-img{
+    display:block;
+    width:300px;
+    margin: 0px auto 20px auto;
+
+}
+
+.search-input{
+    display:block;
+    width:400px;
+    border:1px solid #dfe1e5;
+    border-radius:24px;
+    line-height: 24px;
+    padding:10px 30px;
+    margin: 0px auto;
+}
+
+.btn-wrapper{
+    display:flex;
+    justify-content: center;
+}
+
+.btn{
+    margin:30px 4px 0px 4px;
+    padding: 8px 16px;
+    border:none #dfe1e5 5px;
+    font-size:14px;
+}
